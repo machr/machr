@@ -1,6 +1,6 @@
 # 👋 Hi I'm Mark. 
 
-## Full stack developer from Denmark now living in Melbourne, Australia.
+### Full stack developer from Denmark now living in Melbourne, Australia.
 
 ☁️ Currently work for A Cloud Guru
 
