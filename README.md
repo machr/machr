@@ -6,6 +6,5 @@
 
 💻  General Assembly alumni
 
-Real contribution graph is on [@machr-ACG](https://github.com/machr-ACG) 
 
 
