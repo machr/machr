@@ -1,8 +1,8 @@
 # 👋 Hi I'm Mark. 
 
-### Full stack developer from Denmark now living in Melbourne, Australia.
+### Frontend developer from Denmark now living in Melbourne, Australia.
 
-☁️  Currently looking for my next oppourtunity
+☁️  Currently working at [Cookaborough](https://cookaborough.com.au)
 
 💻  General Assembly alumni
 
